@@ -3,3 +3,5 @@
 
 // var welcomemessage = "This script works!! " + username
 // alert(welcomemessage) 
+var btnTrnslate = document.querySelector("#btn-translate")
+
